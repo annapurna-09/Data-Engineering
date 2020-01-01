@@ -6,5 +6,5 @@ In this project, you'll apply what you've learned on data modeling with Apache C
 We have provided you with a project template that takes care of all the imports and provides a structure for ETL pipeline you'd need to process this data.
 
 ### Data Modeling using a SQL database PostgreSQL 
-In this project, you'll apply what you've learned on data modeling with PostgreSQL and complete an ETL pipeline using Python. To complete the project, you will need to model your data by creating fact and dimesion tables in PostgreSQL to run queries. 
+In this project, you'll apply what you've learned on data modeling with PostgreSQL and complete an ETL pipeline using Python. To complete the project, you will need to model your data by creating fact and dimesion tables for a Star Schema for a specific focus. On the other hand, ETL pipeline would transfer data from files located in two local directories into these tables in Postgres using Python and SQL.
 
